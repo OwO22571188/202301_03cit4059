@@ -26,6 +26,8 @@ HKCT
 
 ### Lecture
 
+[Lecture 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/01.00-Introduction.pdf?csf=1&web=1&e=sG7F1B)
+
 
 ### Activity
 
