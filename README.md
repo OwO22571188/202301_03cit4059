@@ -7,7 +7,7 @@ We have a dedicate Discord Server for this course.
 Please install Discord, create your account and then click the following link.
 
 ```
-https://discord.gg/eDXN8gbS
+https://discord.gg/EGYPe2tB
 ```
 
 Channel:
@@ -27,6 +27,11 @@ HKCT
 ### Lecture
 
 [Lecture 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/01.00-Introduction.pdf?csf=1&web=1&e=sG7F1B)
+
+[Lecture 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/02.00-Cybersecurity%20landscape.pdf?csf=1&web=1&e=9S33Vw)
+
+[Lecture 03 Draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/03.00-IdentificationAndAuthentication.pdf?csf=1&web=1&e=PAzigl)
+
 
 
 ### Activity
