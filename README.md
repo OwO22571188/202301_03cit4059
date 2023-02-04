@@ -39,3 +39,5 @@ HKCT
 [Class activity 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_01.00.pdf?csf=1&web=1&e=FVcadm)
 
 [Class activity 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_02.00.pdf?csf=1&web=1&e=IU35tg)
+
+[Class activity 03](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_03.00.pdf?csf=1&web=1&e=xwABFq)
