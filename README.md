@@ -32,7 +32,7 @@ HKCT
 
 [Lecture 03 Draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/03.00-IdentificationAndAuthentication.pdf?csf=1&web=1&e=PAzigl)
 
-
+[Lecture 04 Draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
 
 ### Activity
 
