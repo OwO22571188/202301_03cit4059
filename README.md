@@ -30,9 +30,9 @@ HKCT
 
 [Lecture 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/02.00-Cybersecurity%20landscape.pdf?csf=1&web=1&e=9S33Vw)
 
-[Lecture 03 Draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/03.00-IdentificationAndAuthentication.pdf?csf=1&web=1&e=PAzigl)
+[Lecture 03](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/03.00-IdentificationAndAuthentication.pdf?csf=1&web=1&e=PAzigl)
 
-[Lecture 04 Draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
+[Lecture 04](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
 
 ### Activity
 
