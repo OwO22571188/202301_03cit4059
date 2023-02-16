@@ -22,7 +22,7 @@ HKCT
 
 ### Teaching Plan
 
-
+[Teaching plan](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/plan/teaching_plan.pdf?csf=1&web=1&e=xhofd1)
 
 ### Lecture
 
