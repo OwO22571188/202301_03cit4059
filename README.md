@@ -34,6 +34,8 @@ HKCT
 
 [Lecture 04](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
 
+[Lecture 05 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/05.00-Audit%20and%20Accountability.pdf?csf=1&web=1&e=58YEJ8)
+
 ### Activity
 
 [Class activity 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_01.00.pdf?csf=1&web=1&e=FVcadm)
@@ -47,3 +49,7 @@ HKCT
 
 [Classwork 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_01.00.pdf?csf=1&web=1&e=Qy2YEj)
 | [Classwork 01 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_01.00_worksheet.md?csf=1&web=1&e=QDyteB)
+
+### Lab
+
+[Lab 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_01.00.pdf?csf=1&web=1&e=6z0K9k)
