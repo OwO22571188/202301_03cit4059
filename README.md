@@ -24,6 +24,8 @@ HKCT
 
 [Teaching plan](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/plan/teaching_plan.pdf?csf=1&web=1&e=xhofd1)
 
+[Reading list](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/plan/readinglist.pdf?csf=1&web=1&e=667UEZ)
+
 ### Lecture
 
 [Lecture 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/01.00-Introduction.pdf?csf=1&web=1&e=sG7F1B)
@@ -35,6 +37,8 @@ HKCT
 [Lecture 04](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
 
 [Lecture 05 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/05.00-Audit%20and%20Accountability.pdf?csf=1&web=1&e=58YEJ8)
+
+[Lecture 06 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/06.00-Network%20Security.pdf?csf=1&web=1&e=cDysKm)
 
 ### Activity
 
