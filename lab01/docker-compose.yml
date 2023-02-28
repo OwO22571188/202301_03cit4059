@@ -1,10 +1,12 @@
 version: '3'
 services:
   linux:
+    container_name: lab01-linux-1
     image: edugarrick/centos-7
     networks:
       - graylog
   webserver:
+    container_name: lab01-webserver-1
     image: edugarrick/ngix
     privileged: true
     ports:
@@ -12,17 +14,20 @@ services:
     networks:
       - graylog
   lserver:
+    container_name: lab01-lserver-1
     image: edugarrick/centos-8
     privileged: true
     networks:
       - graylog
   # MongoDB: https://hub.docker.com/_/mongo/
   mongo:
+    container_name: lab01-mongo-1
     image: mongo:3
     networks:
       - graylog
   # Elasticsearch: https://www.elastic.co/guide/en/elasticsearch/reference/6.x/docker.html
   elasticsearch:
+    container_name: lab01-elasticsearch-1
     image: docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.5
     environment:
       - http.host=0.0.0.0
@@ -41,6 +46,7 @@ services:
       - graylog
   # Graylog: https://hub.docker.com/r/graylog/graylog/
   graylog:
+    container_name: lab01-graylog-1
     image: graylog/graylog:3.2
     environment:
       # CHANGE ME (must be at least 16 characters)!
@@ -56,10 +62,6 @@ services:
     ports:
       # Graylog web interface and REST API
       - 9000:9000
-      # Syslog TCP
-      - 1514:1514
-      # Syslog UDP
-      - 1514:1514/udp
       # GELF TCP
       - 12201:12201
       # GELF UDP
