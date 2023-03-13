@@ -1,0 +1,6 @@
+version: '3'
+services:
+  lserver:
+    container_name: lab02-lserver-1
+    image: edugarrick/centos-8
+    privileged: true
