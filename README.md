@@ -50,6 +50,7 @@ HKCT
 
 [Class activity 03](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_03.00.pdf?csf=1&web=1&e=xwABFq)
 
+[Class activity 04](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_04.00.pdf?csf=1&web=1&e=AfBcKF)
 
 ### Classwork
 
