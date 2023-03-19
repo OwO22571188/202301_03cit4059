@@ -36,11 +36,13 @@ HKCT
 
 [Lecture 04](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/04.00-AuthorizationAccessControls.pdf?csf=1&web=1&e=1Ug7PG)
 
-[Lecture 05 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/05.00-Audit%20and%20Accountability.pdf?csf=1&web=1&e=58YEJ8)
+[Lecture 05](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/05.00-Audit%20and%20Accountability.pdf?csf=1&web=1&e=58YEJ8)
 
-[Lecture 06 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/06.00-Network%20Security.pdf?csf=1&web=1&e=cDysKm)
+[Lecture 06](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/06.00-Network%20Security.pdf?csf=1&web=1&e=cDysKm)
 
 [Lecture 08 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/08.00-Cryptograhy.pdf?csf=1&web=1&e=XFjOdq)
+
+[Lecture 09 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/09.00-ComplianceLawsRegulation.pdf?csf=1&web=1&e=IUrSOe)
 
 ### Activity
 
@@ -56,6 +58,8 @@ HKCT
 
 [Classwork 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_01.00.pdf?csf=1&web=1&e=Qy2YEj)
 | [Classwork 01 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_01.00_worksheet.md?csf=1&web=1&e=QDyteB)
+
+[Classwork 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_02.00.pdf?csf=1&web=1&e=VQkLAh)
 
 ### Lab
 
