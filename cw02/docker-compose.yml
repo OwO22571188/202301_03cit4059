@@ -1,0 +1,9 @@
+version: '3'
+services:
+  linux:
+    container_name: cw02-linux-1
+    image: edugarrick/centos-7
+  lserver:
+    container_name: cw02-lserver-1
+    image: edugarrick/centos-8
+    privileged: true
