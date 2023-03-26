@@ -71,3 +71,4 @@ HKCT
 1. [Red Hat Enable Sysadmin: Base64 encoding: What sysadmins need to know](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/08.00-Base64.pdf?csf=1&web=1&e=02vxS3)
 1. [Key File Format](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/08.01-PEM.pdf?csf=1&web=1&e=0bdUra)
 1. [Paper Communication Theory of Secrecy Systems](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/Communication%20Theory%20of%20Secrecy%20Systems,%20shannon-secrecy.pdf?csf=1&web=1&e=AmREBK)
+1. [How does SSH works](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/08.02-SSH.pdf?csf=1&web=1&e=XZfZpe)
