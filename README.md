@@ -40,9 +40,9 @@ HKCT
 
 [Lecture 06](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/06.00-Network%20Security.pdf?csf=1&web=1&e=cDysKm)
 
-[Lecture 08 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/08.00-Cryptograhy.pdf?csf=1&web=1&e=XFjOdq)
+[Lecture 08](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/08.00-Cryptograhy.pdf?csf=1&web=1&e=XFjOdq)
 
-[Lecture 09 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/09.00-ComplianceLawsRegulation.pdf?csf=1&web=1&e=IUrSOe)
+[Lecture 09](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/09.00-ComplianceLawsRegulation.pdf?csf=1&web=1&e=IUrSOe)
 
 ### Activity
 
