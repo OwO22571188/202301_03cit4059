@@ -44,6 +44,8 @@ HKCT
 
 [Lecture 09](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/09.00-ComplianceLawsRegulation.pdf?csf=1&web=1&e=IUrSOe)
 
+[Lecture 11 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/11.00-OSSecurity.pdf?csf=1&web=1&e=s4coJK)
+
 ### Activity
 
 [Class activity 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_01.00.pdf?csf=1&web=1&e=FVcadm)
@@ -65,6 +67,9 @@ HKCT
 
 [Lab 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_01.00.pdf?csf=1&web=1&e=6z0K9k)
 
+[Lab 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_02.00.pdf?csf=1&web=1&e=8gQ0yA)
+| [Lab 02 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_02.00.worksheet.md?csf=1&web=1&e=crfZb3)
+
 ### Reading
 
 1. [Reading list](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/plan/readinglist.pdf?csf=1&web=1&e=667UEZ)
@@ -72,3 +77,4 @@ HKCT
 1. [Key File Format](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/08.01-PEM.pdf?csf=1&web=1&e=0bdUra)
 1. [Paper Communication Theory of Secrecy Systems](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/Communication%20Theory%20of%20Secrecy%20Systems,%20shannon-secrecy.pdf?csf=1&web=1&e=AmREBK)
 1. [How does SSH works](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/08.02-SSH.pdf?csf=1&web=1&e=XZfZpe)
+1. [Quick note on iptables](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/reading/06.02-Firewall%20iptables.pdf?csf=1&web=1&e=rVYPwq)
