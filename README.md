@@ -70,6 +70,8 @@ HKCT
 [Lab 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_02.00.pdf?csf=1&web=1&e=8gQ0yA)
 | [Lab 02 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_02.00.worksheet.md?csf=1&web=1&e=crfZb3)
 
+[Ubuntu VM](https://ctihe-my.sharepoint.com/:u:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/virtualbox/i386/Ununtu-22.04.ova?csf=1&web=1&e=pxpuno)
+
 ### Reading
 
 1. [Reading list](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/plan/readinglist.pdf?csf=1&web=1&e=667UEZ)
