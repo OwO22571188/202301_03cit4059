@@ -1,0 +1,67 @@
+version: '3'
+services:
+  router:
+    container_name: cw03-router-1
+    image: edugarrick/router
+    privileged: true
+    networks:
+      prodlan:
+        ipv4_address: 192.168.2.2
+      dmzlan:
+        ipv4_address: 192.168.30.2
+  web:
+    container_name: cw03-web-1
+    image: edugarrick/nginx-insecure
+    privileged: true
+    command: >-
+      sh -c "ip route add 192.168.2.0/24 via 192.168.30.2 &&
+      /usr/sbin/init"
+    ports:
+      - 8000:80
+    networks:
+      dmzlan:
+        ipv4_address: 192.168.30.10
+  app:
+    container_name: cw03-app-1
+    image: edugarrick/centos-8-insecure
+    privileged: true
+    command: >-
+      sh -c "ip route add 192.168.30.0/24 via 192.168.2.2 &&
+      /usr/sbin/init"
+    networks:
+      prodlan:
+        ipv4_address: 192.168.2.10
+  db:
+    container_name: cw03-db-1
+    image: mysql:5
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    networks:
+      prodlan:
+        ipv4_address: 192.168.2.11
+  kali:
+    container_name: cw03-kali-1
+    image: lukaszlach/kali-desktop:xfce-top10
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - RESOLUTION=1280x600x24
+    ports:
+      - 5901:5900
+      - 6080:6080
+    networks:
+      prodlan:
+        ipv4_address: 192.168.2.12
+
+networks:
+  prodlan:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.2.0/24 
+  dmzlan:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.30.0/24 
+
