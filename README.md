@@ -48,6 +48,8 @@ HKCT
 
 [Lecture 12 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/12.00-ApplicationSecurity.pdf?csf=1&web=1&e=i6yGMb)
 
+[Lecture 13 draft](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lecture/13.00-Cyberattack.pdf?csf=1&web=1&e=TFdO9b)
+
 ### Activity
 
 [Class activity 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/classactivity_01.00.pdf?csf=1&web=1&e=FVcadm)
