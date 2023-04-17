@@ -67,8 +67,8 @@ HKCT
 
 [Classwork 02](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_02.00.pdf?csf=1&web=1&e=VQkLAh)
 
-[Classwork 03](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_03.00.pdf?csf=1&web=1&e=LuHgdF)
-| [Classwork 03 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_03.00.worksheet.md?csf=1&web=1&e=yeOpxp)
+[Classwork 03](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_03.00.pdf?csf=1&web=1&e=6lDl5T)
+| [Classwork 03 worksheet](https://ctihe-my.sharepoint.com/:t:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/cw_03.00.worksheet.md?csf=1&web=1&e=nJiP3K)
 ### Lab
 
 [Lab 01](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202301_03cit4059/lab/lab_01.00.pdf?csf=1&web=1&e=6z0K9k)
