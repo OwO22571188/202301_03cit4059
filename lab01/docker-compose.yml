@@ -7,7 +7,7 @@ services:
       - graylog
   webserver:
     container_name: lab01-webserver-1
-    image: edugarrick/ngix
+    image: edugarrick/nginx
     privileged: true
     ports:
       - 8000:80
